@@ -24,6 +24,20 @@ conda install tifffile
 
 If your CUDA versions differ please refer to [Start Locally | PyTorch](https://pytorch.org/get-started/locally/).
 
+## Model weights
+
+The model weights can be found at:
+
+* [U-Net](https://drive.protonmail.com/urls/0K1DQWA7BW#FHqatMWKW81I)
+* [Attention U-Net](https://drive.protonmail.com/urls/H0M2CM57ZR#omG2xLYB4R9R)
+* [CBAM U-Net](https://drive.protonmail.com/urls/KQW02V5HTW#1re9Edplo6QY)
+* [Residual Attention U-Net](https://drive.protonmail.com/urls/8PVP5JE2J4#JYg7IsbbOXK7)
+* [scAG U-Net](https://drive.protonmail.com/urls/1P81WARY6C#Z51ijrV9bdg0)
+* [DenseNet121 U-Net](https://drive.protonmail.com/urls/D5QT4C92YW#3DE25wzni9Ci)
+* [MobileNetV2 U-Net](https://drive.protonmail.com/urls/TJW6F5THT8#MtqNAn0k1YxZ)
+* [ResNet34 U-Net](https://drive.protonmail.com/urls/6T6354SJZC#EP8B6RmRojVA)
+* [VGG11 U-Net](https://drive.protonmail.com/urls/8K3F124Y9C#dc7c0LcjCfri)
+
 ## Authors
 
 * [Philip Rinkwitz](https://github.com/rinkwitz)
