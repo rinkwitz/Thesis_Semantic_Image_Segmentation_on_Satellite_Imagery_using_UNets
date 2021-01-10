@@ -47,7 +47,7 @@ The model weights can be found at:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 The helper methods in ```Utils/SolarisHelpers.py``` are taken from the [Solaris](https://github.com/CosmiQ/solaris) project
 that is licensed under the [Apache-2.0 License](https://github.com/CosmiQ/solaris/blob/master/LICENSE.txt). 
-Please refer to that license also if you plan on reusing that code.
+Please refer to that license if you plan on reusing that code.
 
 [comment]: <> (<p align="center">)
 
