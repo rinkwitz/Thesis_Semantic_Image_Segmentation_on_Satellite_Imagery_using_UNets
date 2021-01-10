@@ -22,7 +22,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.0 -c pytorch
 conda install tifffile
 ```
 
-If your CUDA versions differ please refer to [Pytorch - Get started](https://pytorch.org/get-started/locally/).
+If your CUDA versions differ please refer to [Start Locally | PyTorch](https://pytorch.org/get-started/locally/).
 
 ## Authors
 
