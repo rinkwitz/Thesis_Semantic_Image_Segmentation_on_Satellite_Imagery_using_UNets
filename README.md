@@ -1,4 +1,17 @@
 # Thesis Semantic Image Segmentation on Satellite Imagery using UNets
+This project is part of the master thesis *Possibilities to improve the performance and 
+robustness of U-Nets for image segmentation in satellite images with a focus on attention 
+mechanisms and transfer learning* with the 
+[Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/research/department-data-science-and-knowledge-engineering-dke) 
+at Maastricht University.
+* Thesis
+* Presentation
+
+<p align="center">
+<img src="/figs/fig_robustness_prediction_maps_attention.png" alt="fig" width="600">
+</p>
+
+## Abstract
 
 This master thesis aims to perform semantic segmentation of buildings on satellite images from
 the SpaceNet challenge 1 dataset using the U-Net architecture.
