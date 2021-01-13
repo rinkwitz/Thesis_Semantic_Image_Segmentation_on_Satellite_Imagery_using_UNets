@@ -7,10 +7,6 @@ at Maastricht University.
 * Thesis
 * Presentation
 
-<p align="center">
-<img src="/figs/fig_robustness_prediction_maps_attention.png" alt="fig" width="600">
-</p>
-
 ## Abstract
 
 This master thesis aims to perform semantic segmentation of buildings on satellite images from
@@ -21,6 +17,10 @@ Furthermore, possibilities of transfer learning are investigated by
 using convolutional neural networks pre-trained
 on ImageNet as encoders for the U-Net.
 Finally, the performance and robustness for the segmentation task is evaluated for both approaches.
+
+<p align="center">
+<img src="/figs/fig_robustness_prediction_maps_attention.png" alt="fig robustness" width="600">
+</p>
 
 ## Prerequisites
 
