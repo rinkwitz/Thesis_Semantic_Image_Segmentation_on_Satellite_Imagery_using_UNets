@@ -4,8 +4,8 @@ robustness of U-Nets for image segmentation in satellite images with a focus on 
 mechanisms and transfer learning* with the 
 [Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/research/department-data-science-and-knowledge-engineering-dke) 
 at Maastricht University.
-* Thesis
-* Presentation
+* [Thesis](https://drive.protonmail.com/urls/3F74H6B12W#hx7hdO81NAG8)
+* [Presentation](https://drive.protonmail.com/urls/HY6957FBNW#Su3FtBkOnOQQ)
 
 ## Abstract
 
